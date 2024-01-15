@@ -7,3 +7,5 @@ window.onload = () => {
 function testInject() {
   console.log('I am injected js code');
 }
+
+testInject();
