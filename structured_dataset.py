@@ -16,3 +16,5 @@ sd = StructuredDataset(dataframe=df)
 
 def get_sds():
     return sd
+
+get_sds()
